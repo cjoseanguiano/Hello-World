@@ -11,11 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        //Numero 1-
-        //Numero 2-
-
-        //Numero 4-master
-        // Numero 3 CARLOS
-        //NUMERO 5 CARLOS
     }
 }
