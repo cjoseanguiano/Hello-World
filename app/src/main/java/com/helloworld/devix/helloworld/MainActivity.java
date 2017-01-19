@@ -11,8 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        //Completo 1.
-        //Completo 2 para Carlos
+       //Numero 1
 
     }
 }
